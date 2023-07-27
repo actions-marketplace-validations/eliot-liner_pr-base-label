@@ -1,0 +1,10 @@
+# Apply label "feature" if head matches "feature/*"
+feature:
+  base: "feature/*"
+
+# Apply label "bugfix" if head matches one of "bugfix/*" or "hotfix/*"
+main:
+  base: "main/*"
+
+main:
+  base: "*"
