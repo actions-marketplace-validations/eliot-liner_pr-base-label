@@ -1,4 +1,4 @@
-name: "PR Branch Labeler"
+name: "pr-base-label"
 description: "Automatically label your PRs based on their branches."
 author: "eliot-liner"
 inputs:
